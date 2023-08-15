@@ -255,6 +255,12 @@ body {
   margin-right: 1.6vw;
 }
 
+.logo-manga{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 @media (min-width:991px) {
   .box-razzmatazz {
     margin-top: -15px;
